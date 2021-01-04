@@ -1,1 +1,2 @@
 new file
+Ok, this proves that I am able to clone files from github, edit it, add it, commit it, and push it. 
